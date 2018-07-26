@@ -30,4 +30,4 @@ Click2Sync Windows Service Wrapper for Java Implementations with WinRun4J
 # Configuration
 
 1. config.properties for Java integration parameters (if changing properties, service needs to be restarted)
-2. C2SSB1SRVC.ini for changing Java Path, dlls paths, Windows Service Configurations, log paths, etc. (if changing properties, service needs to be restarted)
+2. C2SRCSVC.ini for changing Java Path, dlls paths, Windows Service Configurations, log paths, etc. (if changing properties, service needs to be restarted)
