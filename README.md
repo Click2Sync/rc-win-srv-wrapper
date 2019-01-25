@@ -9,6 +9,7 @@ Click2Sync Windows Service Wrapper for Java Implementations with WinRun4J
 4. Include them in your Java project
 5. Inherit from AbstractService like the ServiceTest test of 
     https://github.com/poidasmith/winrun4j/blob/master/org.boris.winrun4j.test/java/src/org/boris/winrun4j/test/ServiceTest.java
+6. Swap file names of C2SRCSVC.exe to C2SRCSVC_32.exe and C2SRCSVC_64.exe to C2SRCSVC.exe if you want to work with 64 Java
 
 # Install
 
