@@ -16,6 +16,7 @@ Click2Sync Windows Service Wrapper for Java Implementations with WinRun4J
 1. Copy folder to C:\ or to Program Files
 2. installservice.bat
 3. Configure Task scheduler to execute logrotate command every day
+4. Configure Task scheduler to execute "net start c2ssb1srvc" and execute it everytime you consider appropriate
 
 # Uninstall
 
